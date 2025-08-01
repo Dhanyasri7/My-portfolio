@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio! 🚀  
 This site showcases my **skills, projects, internships, and certifications** in a modern glassmorphism UI.  
 
-🔗 **Live Demo:** [View Portfolio](https://dhanyasri7.github.io/portfolio/)  
+🔗 **Live Demo:** [View Portfolio](https://my-portfolio-07.tiiny.site)  
 
 ---
 
