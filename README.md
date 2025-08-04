@@ -45,14 +45,6 @@ This site showcases my **skills, projects, internships, and certifications** in 
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Frameworks:** ReactJS  
-- **Backend:** Python (Flask, Django basics), Java  
-- **Other:** Machine Learning, GitHub Pages  
-
----
-
-## 📸 Preview
-![Portfolio Screenshot](images/templatemo-futuristic-girl.jpg)  
 
 ---
 
